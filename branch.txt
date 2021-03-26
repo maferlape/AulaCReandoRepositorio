@@ -1,2 +1,6 @@
 readme.md
 **primeira branch**
+***
+* importante usar comando git pull
+* usar comando git **push**
+
